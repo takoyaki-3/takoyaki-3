@@ -21,6 +21,7 @@ ITで交通をちょっと良くしたいです。
 
 - 個人サイト: https://github.com/takoyaki-3/takoyaki3-com
 - 個人サイトコンテンツ: https://github.com/takoyaki-3/takoyaki3-com-data
+- 画像等の公開データホスティング： https://github.com/takoyaki-3/s3-public-contents
 - システム状態監視: https://github.com/takoyaki-3/kva-watchDog
 - 共通認証: https://github.com/takoyaki-3/takoyaki3-auth
 - 共通KeyValueStore: https://github.com/takoyaki-3/kva-store-dynamodb
